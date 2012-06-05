@@ -1,0 +1,17 @@
+Hello ${new.committer.name},
+
+The Zentaur Server Project team hereby offers you committer privileges to the project.
+
+Being a committer enables you to more easily make changes without needing to go through the pull request process.
+
+Being a committer does not require you to participate any more than you already do.
+It does tend to make one even more committed. You will probably find that you spend more time here.
+
+Of course, you can decline and instead remain as a contributor, participating as you do now.
+
+If you intend accepting the invitation, please download the ICLA on https://github.com/zentaur/legals/blob/master/ICLA,
+print, sign and send a scanned copy to Simone Tripodi (simone [dot] tripodi [at] gmail [dot] com)
+or Christian Grobmeier (grobmeier [at] gmail [dot] com)
+
+Have fun!
+-${committer.name}, on behalf of the Zentaur Server team
